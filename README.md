@@ -21,7 +21,7 @@ O objetivo foi aplicar e solidificar conhecimentos em estruturação de formulá
 
 ## 🖼️ Demonstração (Live Demo)
 
-[![Preview da Login Box](https://github.com/Woooly/login-box/raw/refs/heads/main/background.jpg)](https://login-box-eight.vercel.app/)
+[![Preview da Login Box](https://github.com/Woooly/login-box/raw/refs/heads/main/preview.jpg)](https://login-box-eight.vercel.app/)
 
 🔗 **[Acesse o Projeto Online (Live Demo)](https://login-box-eight.vercel.app/)**
 
